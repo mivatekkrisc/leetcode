@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f711d9f-6457-4d9a-91d8-db6c2bd72013" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leecode/MissingNumber.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BinaryTreePaths">
+  <component name="RunManager" selected="Application.Pow">
     <configuration name="AddDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.AddDigits" />
       <module name="leecode" />
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstBadVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.FirstBadVersion" />
+    <configuration name="BullsAndCows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.BullsAndCows" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MoveZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.MoveZeros" />
+    <configuration name="Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.Pow" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pow" />
+        <item itemvalue="Application.BullsAndCows" />
         <item itemvalue="Application.BinaryTreePaths" />
         <item itemvalue="Application.MissingNumbers" />
         <item itemvalue="Application.AddDigits" />
-        <item itemvalue="Application.FirstBadVersion" />
-        <item itemvalue="Application.MoveZeros" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +132,7 @@
       <workItem from="1572492161384" duration="8535000" />
       <workItem from="1572517476919" duration="43538000" />
       <workItem from="1573004799410" duration="56410000" />
-      <workItem from="1573526450741" duration="16843000" />
+      <workItem from="1573526450741" duration="19928000" />
     </task>
     <servers />
   </component>
@@ -276,6 +277,21 @@
           <url>file://$PROJECT_DIR$/src/leecode/FirstBadVersion.java</url>
           <line>17</line>
           <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/BullsAndCows.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/BullsAndCows.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/Pow.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="122" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
