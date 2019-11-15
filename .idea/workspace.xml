@@ -41,9 +41,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RightSideView">
-    <configuration name="CloneGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.CloneGraph" />
+  <component name="RunManager" selected="Application.FindDuplicateNumber">
+    <configuration name="FindDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.FindDuplicateNumber" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PathSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.PathSum2" />
+    <configuration name="NumberOf1Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.NumberOf1Bits" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PopulateRightPointers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.PopulateRightPointers" />
+    <configuration name="ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.ReverseBits" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumRootToLeaf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.SumRootToLeaf" />
+    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.RotateArray" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindDuplicateNumber" />
+        <item itemvalue="Application.ReverseBits" />
+        <item itemvalue="Application.NumberOf1Bits" />
+        <item itemvalue="Application.RotateArray" />
         <item itemvalue="Application.RightSideView" />
-        <item itemvalue="Application.PathSum2" />
-        <item itemvalue="Application.SumRootToLeaf" />
-        <item itemvalue="Application.PopulateRightPointers" />
-        <item itemvalue="Application.CloneGraph" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,7 @@
       <workItem from="1572517476919" duration="43538000" />
       <workItem from="1573004799410" duration="56410000" />
       <workItem from="1573526450741" duration="40533000" />
-      <workItem from="1573788422197" duration="13435000" />
+      <workItem from="1573788422197" duration="16862000" />
     </task>
     <servers />
   </component>
