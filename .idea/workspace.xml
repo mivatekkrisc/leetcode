@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f711d9f-6457-4d9a-91d8-db6c2bd72013" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leecode/MissingNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leecode/Divide.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Pow">
-    <configuration name="AddDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.AddDigits" />
+  <component name="RunManager" selected="Application.SumRootToLeaf">
+    <configuration name="CloneGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.CloneGraph" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinaryTreePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.BinaryTreePaths" />
+    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.LRUCache" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BullsAndCows" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.BullsAndCows" />
+    <configuration name="PopulateRightPointers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.PopulateRightPointers" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.MissingNumbers" />
+    <configuration name="SumRootToLeaf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.SumRootToLeaf" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.Pow" />
+    <configuration name="UniquePath2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.UniquePath2" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pow" />
-        <item itemvalue="Application.BullsAndCows" />
-        <item itemvalue="Application.BinaryTreePaths" />
-        <item itemvalue="Application.MissingNumbers" />
-        <item itemvalue="Application.AddDigits" />
+        <item itemvalue="Application.SumRootToLeaf" />
+        <item itemvalue="Application.PopulateRightPointers" />
+        <item itemvalue="Application.CloneGraph" />
+        <item itemvalue="Application.LRUCache" />
+        <item itemvalue="Application.UniquePath2" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,8 @@
       <workItem from="1572492161384" duration="8535000" />
       <workItem from="1572517476919" duration="43538000" />
       <workItem from="1573004799410" duration="56410000" />
-      <workItem from="1573526450741" duration="19928000" />
+      <workItem from="1573526450741" duration="40533000" />
+      <workItem from="1573788422197" duration="8277000" />
     </task>
     <servers />
   </component>
@@ -144,7 +145,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -289,9 +292,29 @@
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leecode/Pow.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="122" />
+          <url>file://$PROJECT_DIR$/src/leecode/RotateList.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/RotateList.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/LRUCache.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/CloneGraph.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/PopulateRightPointers.java</url>
+          <line>93</line>
+          <option name="timeStamp" value="140" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
