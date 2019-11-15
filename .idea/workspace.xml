@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f711d9f-6457-4d9a-91d8-db6c2bd72013" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leecode/Divide.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +41,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SumRootToLeaf">
+  <component name="RunManager" selected="Application.RightSideView">
     <configuration name="CloneGraph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.CloneGraph" />
       <module name="leecode" />
@@ -56,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.LRUCache" />
+    <configuration name="PathSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.PathSum2" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -82,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RightSideView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.RightSideView" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SumRootToLeaf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.SumRootToLeaf" />
       <module name="leecode" />
@@ -95,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UniquePath2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.UniquePath2" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RightSideView" />
+        <item itemvalue="Application.PathSum2" />
         <item itemvalue="Application.SumRootToLeaf" />
         <item itemvalue="Application.PopulateRightPointers" />
         <item itemvalue="Application.CloneGraph" />
-        <item itemvalue="Application.LRUCache" />
-        <item itemvalue="Application.UniquePath2" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +132,7 @@
       <workItem from="1572517476919" duration="43538000" />
       <workItem from="1573004799410" duration="56410000" />
       <workItem from="1573526450741" duration="40533000" />
-      <workItem from="1573788422197" duration="8277000" />
+      <workItem from="1573788422197" duration="13435000" />
     </task>
     <servers />
   </component>
@@ -315,6 +314,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/PopulateRightPointers.java</url>
           <line>93</line>
           <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/PathSum2.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="145" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
