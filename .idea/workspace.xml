@@ -41,7 +41,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindDuplicateNumber">
+  <component name="RunManager" selected="Application.CombinationSum">
+    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.CombinationSum" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.FindDuplicateNumber" />
       <module name="leecode" />
@@ -68,6 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.Permutations" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.ReverseBits" />
       <module name="leecode" />
@@ -81,39 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightSideView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.RightSideView" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.RotateArray" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CombinationSum" />
+        <item itemvalue="Application.Permutations" />
         <item itemvalue="Application.FindDuplicateNumber" />
         <item itemvalue="Application.ReverseBits" />
         <item itemvalue="Application.NumberOf1Bits" />
-        <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.RightSideView" />
       </list>
     </recent_temporary>
   </component>
@@ -132,7 +132,8 @@
       <workItem from="1572517476919" duration="43538000" />
       <workItem from="1573004799410" duration="56410000" />
       <workItem from="1573526450741" duration="40533000" />
-      <workItem from="1573788422197" duration="16862000" />
+      <workItem from="1573788422197" duration="17016000" />
+      <workItem from="1574042501925" duration="6441000" />
     </task>
     <servers />
   </component>
@@ -319,6 +320,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/PathSum2.java</url>
           <line>20</line>
           <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/Permutations.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="147" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
