@@ -41,9 +41,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CombinationSum">
-    <configuration name="CombinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.CombinationSum" />
+  <component name="RunManager" selected="Application.MergeIntervals">
+    <configuration name="FirstMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.FirstMissingPositive" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -55,8 +55,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindDuplicateNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.FindDuplicateNumber" />
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.MergeIntervals" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberOf1Bits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.NumberOf1Bits" />
+    <configuration name="MergeLLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.MergeLLists" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +81,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.Permutations" />
+    <configuration name="ReverseKGroup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.ReverseKGroup" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseBits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.ReverseBits" />
+    <configuration name="SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.SpiralMatrix" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CombinationSum" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.FindDuplicateNumber" />
-        <item itemvalue="Application.ReverseBits" />
-        <item itemvalue="Application.NumberOf1Bits" />
+        <item itemvalue="Application.MergeIntervals" />
+        <item itemvalue="Application.SpiralMatrix" />
+        <item itemvalue="Application.ReverseKGroup" />
+        <item itemvalue="Application.MergeLLists" />
+        <item itemvalue="Application.FirstMissingPositive" />
       </list>
     </recent_temporary>
   </component>
@@ -133,7 +133,7 @@
       <workItem from="1573004799410" duration="56410000" />
       <workItem from="1573526450741" duration="40533000" />
       <workItem from="1573788422197" duration="17016000" />
-      <workItem from="1574042501925" duration="6441000" />
+      <workItem from="1574042501925" duration="14798000" />
     </task>
     <servers />
   </component>
@@ -325,6 +325,21 @@
           <url>file://$PROJECT_DIR$/src/leecode/Permutations.java</url>
           <line>24</line>
           <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/MergeLLists.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/SpiralMatrix.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/MergeIntervals.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="156" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
