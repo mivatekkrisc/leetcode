@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8f711d9f-6457-4d9a-91d8-db6c2bd72013" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leecode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leecode/ListNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +27,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/projects/natter-api/pom.xml" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
@@ -42,35 +42,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.LargestNumber">
-    <configuration name="BinaryTreeMaxPathSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.BinaryTreeMaxPathSum" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FindMinInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.FindMinInRotatedSortedArray" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SerializeAndDeserializeBinaryTree">
     <configuration name="FindPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.FindPeakElement" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FractionToRecurringDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.FractionToRecurringDecimal" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +82,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.ReverseLinkedList2" />
+    <configuration name="SerializeAndDeserializeBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.SerializeAndDeserializeBinaryTree" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.UglyNumber" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializeAndDeserializeBinaryTree" />
+        <item itemvalue="Application.UglyNumber" />
+        <item itemvalue="Application.FractionToRecurringDecimal" />
         <item itemvalue="Application.LargestNumber" />
         <item itemvalue="Application.FindPeakElement" />
-        <item itemvalue="Application.FindMinInRotatedSortedArray" />
-        <item itemvalue="Application.BinaryTreeMaxPathSum" />
-        <item itemvalue="Application.ReverseLinkedList2" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +134,8 @@
       <workItem from="1573004799410" duration="56410000" />
       <workItem from="1573526450741" duration="40533000" />
       <workItem from="1573788422197" duration="17016000" />
-      <workItem from="1574042501925" duration="35600000" />
+      <workItem from="1574042501925" duration="37645000" />
+      <workItem from="1574239077634" duration="5050000" />
     </task>
     <servers />
   </component>
@@ -351,6 +352,26 @@
           <url>file://$PROJECT_DIR$/src/leecode/BinaryTreeMaxPathSum.java</url>
           <line>62</line>
           <option name="timeStamp" value="193" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/UglyNumber.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/SerializeAndDeserializeBinaryTree.java</url>
+          <line>2124</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/SerializeAndDeserializeBinaryTree.java</url>
+          <line>2123</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/SerializeAndDeserializeBinaryTree.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="201" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
