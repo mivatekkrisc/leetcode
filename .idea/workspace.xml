@@ -42,20 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TopKFrequentElements">
-    <configuration name="InsertionSortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.InsertionSortList" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.OddEventLinkedList">
     <configuration name="IntersectionOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.IntersectionOfTwoArrays" />
       <module name="leecode" />
@@ -82,8 +69,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.Subsets" />
+    <configuration name="OddEventLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.OddEventLinkedList" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PowerOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.PowerOfThree" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OddEventLinkedList" />
+        <item itemvalue="Application.PowerOfThree" />
         <item itemvalue="Application.TopKFrequentElements" />
         <item itemvalue="Application.IntersectionOfTwoArrays" />
         <item itemvalue="Application.NumberOfIslands" />
-        <item itemvalue="Application.InsertionSortList" />
-        <item itemvalue="Application.Subsets" />
       </list>
     </recent_temporary>
   </component>
@@ -136,7 +136,8 @@
       <workItem from="1573788422197" duration="17016000" />
       <workItem from="1574042501925" duration="37645000" />
       <workItem from="1574239077634" duration="10815000" />
-      <workItem from="1574326618834" duration="9589000" />
+      <workItem from="1574326618834" duration="10422000" />
+      <workItem from="1574417166789" duration="1884000" />
     </task>
     <servers />
   </component>
@@ -363,6 +364,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/TopKFrequentElements.java</url>
           <line>33</line>
           <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/PowerOfThree.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="210" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
