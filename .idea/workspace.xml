@@ -42,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Subsets">
-    <configuration name="PartitionList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.PartitionList" />
+  <component name="RunManager" selected="Application.TopKFrequentElements">
+    <configuration name="InsertionSortList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.InsertionSortList" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseLinkList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.ReverseLinkList2" />
+    <configuration name="IntersectionOfTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.IntersectionOfTwoArrays" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SerializeAndDeserializeBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.SerializeAndDeserializeBinaryTree" />
+    <configuration name="NumberOfIslands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.NumberOfIslands" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.UglyNumber" />
+    <configuration name="TopKFrequentElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.TopKFrequentElements" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TopKFrequentElements" />
+        <item itemvalue="Application.IntersectionOfTwoArrays" />
+        <item itemvalue="Application.NumberOfIslands" />
+        <item itemvalue="Application.InsertionSortList" />
         <item itemvalue="Application.Subsets" />
-        <item itemvalue="Application.PartitionList" />
-        <item itemvalue="Application.ReverseLinkList2" />
-        <item itemvalue="Application.SerializeAndDeserializeBinaryTree" />
-        <item itemvalue="Application.UglyNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +135,8 @@
       <workItem from="1573526450741" duration="40533000" />
       <workItem from="1573788422197" duration="17016000" />
       <workItem from="1574042501925" duration="37645000" />
-      <workItem from="1574239077634" duration="10288000" />
+      <workItem from="1574239077634" duration="10815000" />
+      <workItem from="1574326618834" duration="9589000" />
     </task>
     <servers />
   </component>
@@ -358,11 +359,19 @@
           <line>11</line>
           <option name="timeStamp" value="196" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/TopKFrequentElements.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/leecode$TailingZeros.ic" NAME="TailingZeros Coverage Results" MODIFIED="1573180651752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>leecode.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/leecode$InsertionSortList.ic" NAME="InsertionSortList Coverage Results" MODIFIED="1574334147829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>leecode.*</FILTER>
     </SUITE>
   </component>
