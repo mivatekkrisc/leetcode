@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8f711d9f-6457-4d9a-91d8-db6c2bd72013" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leecode/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leecode/ListNode.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,9 +43,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RandomNote">
-    <configuration name="FindTheDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.FindTheDifference" />
+  <component name="RunManager" selected="Application.LongestWordInDictionaryThroughDeleting">
+    <configuration name="EvaluateReversePolishNotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.EvaluateReversePolishNotation" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +57,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstUniqueCharacterInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.FirstUniqueCharacterInString" />
+    <configuration name="LinkedListCycle2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.LinkedListCycle2" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerReplacement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.IntegerReplacement" />
+    <configuration name="LongestWordInDictionaryThroughDeleting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.LongestWordInDictionaryThroughDeleting" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListRandomNode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.LinkedListRandomNode" />
+    <configuration name="RemoveDuplicatesFromSortedList2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.RemoveDuplicatesFromSortedList2" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomNote" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.RandomNote" />
+    <configuration name="ReorderList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.ReorderList" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RandomNote" />
-        <item itemvalue="Application.LinkedListRandomNode" />
-        <item itemvalue="Application.FindTheDifference" />
-        <item itemvalue="Application.FirstUniqueCharacterInString" />
-        <item itemvalue="Application.IntegerReplacement" />
+        <item itemvalue="Application.LongestWordInDictionaryThroughDeleting" />
+        <item itemvalue="Application.LinkedListCycle2" />
+        <item itemvalue="Application.ReorderList" />
+        <item itemvalue="Application.EvaluateReversePolishNotation" />
+        <item itemvalue="Application.RemoveDuplicatesFromSortedList2" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +140,7 @@
       <workItem from="1574326618834" duration="10422000" />
       <workItem from="1574417166789" duration="2136000" />
       <workItem from="1574652447160" duration="1925000" />
-      <workItem from="1574670337608" duration="4747000" />
+      <workItem from="1574670337608" duration="21021000" />
     </task>
     <servers />
   </component>
@@ -376,6 +377,21 @@
           <url>file://$PROJECT_DIR$/src/leecode/IntegerReplacement.java</url>
           <line>9</line>
           <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/DeleteNodeInBST.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/EvaluateReversePolishNotation.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/LinkedListCycle2.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="228" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
