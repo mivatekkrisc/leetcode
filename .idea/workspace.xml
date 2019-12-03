@@ -42,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MinimumAbsoluteDifferenceInBST">
-    <configuration name="FibonacciNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.FibonacciNum" />
+  <component name="RunManager" selected="Application.MaximumDepthOfNaryTree">
+    <configuration name="ConvertBSTToGreaterTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.ConvertBSTToGreaterTree" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -82,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MaximumDepthOfNaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.MaximumDepthOfNaryTree" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MinimumAbsoluteDifferenceInBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.MinimumAbsoluteDifferenceInBST" />
       <module name="leecode" />
@@ -95,26 +108,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NaryTreePostOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.NaryTreePostOrderTraversal" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumDepthOfNaryTree" />
+        <item itemvalue="Application.ConvertBSTToGreaterTree" />
         <item itemvalue="Application.MinimumAbsoluteDifferenceInBST" />
         <item itemvalue="Application.FindLargestValueInEachTreeRow" />
         <item itemvalue="Application.FindBottomLeftTreeValue" />
-        <item itemvalue="Application.FibonacciNum" />
-        <item itemvalue="Application.NaryTreePostOrderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,7 @@
       <workItem from="1574652447160" duration="1925000" />
       <workItem from="1574670337608" duration="22201000" />
       <workItem from="1575023507624" duration="1096000" />
-      <workItem from="1575360269154" duration="4881000" />
+      <workItem from="1575360269154" duration="6468000" />
     </task>
     <servers />
   </component>
