@@ -42,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountCompleteTreeNodes">
-    <configuration name="ConvertBSTToGreaterTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.ConvertBSTToGreaterTree" />
+  <component name="RunManager" selected="Application.SingleNumber2">
+    <configuration name="ContainsDuplicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.ContainsDuplicate2" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumDepthOfNaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.MaximumDepthOfNaryTree" />
+    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.PowerOfTwo" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeTwoBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.MergeTwoBinaryTree" />
+    <configuration name="SingleNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.SingleNumber2" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleNumber2" />
+        <item itemvalue="Application.PowerOfTwo" />
+        <item itemvalue="Application.ContainsDuplicate2" />
         <item itemvalue="Application.CountCompleteTreeNodes" />
         <item itemvalue="Application.KthLargestElementInArray" />
-        <item itemvalue="Application.MergeTwoBinaryTree" />
-        <item itemvalue="Application.MaximumDepthOfNaryTree" />
-        <item itemvalue="Application.ConvertBSTToGreaterTree" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <workItem from="1574670337608" duration="22201000" />
       <workItem from="1575023507624" duration="1096000" />
       <workItem from="1575360269154" duration="8631000" />
-      <workItem from="1575455661961" duration="1219000" />
+      <workItem from="1575455661961" duration="3044000" />
     </task>
     <servers />
   </component>
