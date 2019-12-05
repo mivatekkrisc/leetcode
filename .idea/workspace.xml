@@ -42,7 +42,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SingleNumber2">
+  <component name="RunManager" selected="Application.CoinChange">
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.CoinChange" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContainsDuplicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.ContainsDuplicate2" />
       <module name="leecode" />
@@ -56,34 +69,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountCompleteTreeNodes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.CountCompleteTreeNodes" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="KthLargestElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.KthLargestElementInArray" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.PowerOfTwo" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseVowelsOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.ReverseVowelsOfAString" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CoinChange" />
+        <item itemvalue="Application.ReverseVowelsOfAString" />
         <item itemvalue="Application.SingleNumber2" />
         <item itemvalue="Application.PowerOfTwo" />
         <item itemvalue="Application.ContainsDuplicate2" />
-        <item itemvalue="Application.CountCompleteTreeNodes" />
-        <item itemvalue="Application.KthLargestElementInArray" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,7 @@
       <workItem from="1574670337608" duration="22201000" />
       <workItem from="1575023507624" duration="1096000" />
       <workItem from="1575360269154" duration="8631000" />
-      <workItem from="1575455661961" duration="3044000" />
+      <workItem from="1575455661961" duration="5190000" />
     </task>
     <servers />
   </component>
@@ -399,6 +399,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/MergeTwoBinaryTree.java</url>
           <line>50</line>
           <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/ReverseVowelsOfAString.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="231" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
