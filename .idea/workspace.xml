@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CoinChange">
+  <component name="RunManager" selected="Application.PowerOfFour">
     <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.CoinChange" />
       <module name="leecode" />
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainsDuplicate2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.ContainsDuplicate2" />
+    <configuration name="CopyListWithRandomPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.CopyListWithRandomPointer" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.PowerOfTwo" />
+    <configuration name="PowerOfFour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.PowerOfFour" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseVowelsOfAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.ReverseVowelsOfAString" />
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.ReverseString" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.SingleNumber2" />
+    <configuration name="RotateFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.RotateFunction" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PowerOfFour" />
+        <item itemvalue="Application.CopyListWithRandomPointer" />
+        <item itemvalue="Application.RotateFunction" />
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.CoinChange" />
-        <item itemvalue="Application.ReverseVowelsOfAString" />
-        <item itemvalue="Application.SingleNumber2" />
-        <item itemvalue="Application.PowerOfTwo" />
-        <item itemvalue="Application.ContainsDuplicate2" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +142,8 @@
       <workItem from="1574670337608" duration="22201000" />
       <workItem from="1575023507624" duration="1096000" />
       <workItem from="1575360269154" duration="8631000" />
-      <workItem from="1575455661961" duration="5190000" />
+      <workItem from="1575455661961" duration="8293000" />
+      <workItem from="1575630043193" duration="1882000" />
     </task>
     <servers />
   </component>
@@ -404,6 +405,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/ReverseVowelsOfAString.java</url>
           <line>11</line>
           <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/CopyListWithRandomPointer.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="232" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
