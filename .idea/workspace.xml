@@ -42,9 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.PowerOfFour">
-    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.CoinChange" />
+  <component name="RunManager" selected="Application.NaryTreeLevelOrderTraversal">
+    <configuration name="CopyListWithRandomPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.CopyListWithRandomPointer" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -56,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyListWithRandomPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.CopyListWithRandomPointer" />
+    <configuration name="NaryTreeLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.NaryTreeLevelOrderTraversal" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NaryTreeLevelOrderTraversal" />
         <item itemvalue="Application.PowerOfFour" />
         <item itemvalue="Application.CopyListWithRandomPointer" />
         <item itemvalue="Application.RotateFunction" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.CoinChange" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +143,7 @@
       <workItem from="1575023507624" duration="1096000" />
       <workItem from="1575360269154" duration="8631000" />
       <workItem from="1575455661961" duration="8293000" />
-      <workItem from="1575630043193" duration="1882000" />
+      <workItem from="1575630043193" duration="2947000" />
     </task>
     <servers />
   </component>
