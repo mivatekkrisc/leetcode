@@ -42,7 +42,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaximumAverageSubArray">
+  <component name="RunManager" selected="Application.AverageOfLevelsInBinaryTree">
+    <configuration name="AverageOfLevelsInBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.AverageOfLevelsInBinaryTree" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DiameterOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.DiameterOfBinaryTree" />
       <module name="leecode" />
@@ -82,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NaryTreeLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.NaryTreeLevelOrderTraversal" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SumOfLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.SumOfLeaves" />
       <module name="leecode" />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AverageOfLevelsInBinaryTree" />
         <item itemvalue="Application.MaximumAverageSubArray" />
         <item itemvalue="Application.DiameterOfBinaryTree" />
         <item itemvalue="Application.HammingDistance" />
         <item itemvalue="Application.SumOfLeaves" />
-        <item itemvalue="Application.NaryTreeLevelOrderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,7 @@
       <workItem from="1575360269154" duration="8631000" />
       <workItem from="1575455661961" duration="8293000" />
       <workItem from="1575630043193" duration="3359000" />
-      <workItem from="1575878560443" duration="5246000" />
+      <workItem from="1575878560443" duration="6915000" />
     </task>
     <servers />
   </component>
