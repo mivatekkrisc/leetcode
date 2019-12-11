@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AverageOfLevelsInBinaryTree">
+  <component name="RunManager" selected="Application.MyCircularDeque">
     <configuration name="AverageOfLevelsInBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.AverageOfLevelsInBinaryTree" />
       <module name="leecode" />
@@ -69,19 +69,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.HammingDistance" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="MaximumAverageSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.MaximumAverageSubArray" />
       <module name="leecode" />
@@ -95,8 +82,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfLeaves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.SumOfLeaves" />
+    <configuration name="MyCircularDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.MyCircularDeque" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCircularQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.MyCircularQueue" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyCircularDeque" />
+        <item itemvalue="Application.MyCircularQueue" />
         <item itemvalue="Application.AverageOfLevelsInBinaryTree" />
         <item itemvalue="Application.MaximumAverageSubArray" />
         <item itemvalue="Application.DiameterOfBinaryTree" />
-        <item itemvalue="Application.HammingDistance" />
-        <item itemvalue="Application.SumOfLeaves" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +144,7 @@
       <workItem from="1575360269154" duration="8631000" />
       <workItem from="1575455661961" duration="8293000" />
       <workItem from="1575630043193" duration="3359000" />
-      <workItem from="1575878560443" duration="6915000" />
+      <workItem from="1575878560443" duration="10769000" />
     </task>
     <servers />
   </component>
@@ -411,6 +411,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/CopyListWithRandomPointer.java</url>
           <line>69</line>
           <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/MyCircularQueue.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="237" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
