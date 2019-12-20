@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BalancedBinaryTree">
+  <component name="RunManager" selected="Application.MaxProfix2">
     <configuration name="BalancedBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.BalancedBinaryTree" />
       <module name="leecode" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.IsomorphicStrings" />
+    <configuration name="ConvertSortedListToBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.ConvertSortedListToBinarySearchTree" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyCircularDeque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.MyCircularDeque" />
+    <configuration name="MaxProfix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.MaxProfix2" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SummaryRanges" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.SummaryRanges" />
+    <configuration name="TwoSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.TwoSum2" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxProfix2" />
+        <item itemvalue="Application.TwoSum2" />
+        <item itemvalue="Application.ConvertSortedListToBinarySearchTree" />
         <item itemvalue="Application.BalancedBinaryTree" />
         <item itemvalue="Application.BinaryTreeZigzagLevelOrderTraversal" />
-        <item itemvalue="Application.IsomorphicStrings" />
-        <item itemvalue="Application.SummaryRanges" />
-        <item itemvalue="Application.MyCircularDeque" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,11 @@
       <workItem from="1575455661961" duration="8293000" />
       <workItem from="1575630043193" duration="3359000" />
       <workItem from="1575878560443" duration="13344000" />
-      <workItem from="1576056554279" duration="3886000" />
+      <workItem from="1576056554279" duration="4040000" />
+      <workItem from="1576230570784" duration="1238000" />
+      <workItem from="1576635993152" duration="67000" />
+      <workItem from="1576745979311" duration="712000" />
+      <workItem from="1576831218340" duration="1512000" />
     </task>
     <servers />
   </component>
