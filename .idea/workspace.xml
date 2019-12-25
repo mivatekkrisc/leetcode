@@ -42,35 +42,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaxProfix2">
-    <configuration name="BalancedBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.BalancedBinaryTree" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BinaryTreeZigzagLevelOrderTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.BinaryTreeZigzagLevelOrderTraversal" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConvertSortedListToBinarySearchTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.ConvertSortedListToBinarySearchTree" />
+  <component name="RunManager" selected="Application.DetectCapital">
+    <configuration name="DetectCapital" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.DetectCapital" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +58,32 @@
     </configuration>
     <configuration name="MaxProfix2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.MaxProfix2" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NimGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.NimGame" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermutationSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.PermutationSequence" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DetectCapital" />
+        <item itemvalue="Application.NimGame" />
+        <item itemvalue="Application.PermutationSequence" />
         <item itemvalue="Application.MaxProfix2" />
         <item itemvalue="Application.TwoSum2" />
-        <item itemvalue="Application.ConvertSortedListToBinarySearchTree" />
-        <item itemvalue="Application.BalancedBinaryTree" />
-        <item itemvalue="Application.BinaryTreeZigzagLevelOrderTraversal" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,8 @@
       <workItem from="1576230570784" duration="1238000" />
       <workItem from="1576635993152" duration="67000" />
       <workItem from="1576745979311" duration="712000" />
-      <workItem from="1576831218340" duration="1512000" />
+      <workItem from="1576831218340" duration="2390000" />
+      <workItem from="1577260872600" duration="3251000" />
     </task>
     <servers />
   </component>
@@ -426,6 +427,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/BinaryTreeZigzagLevelOrderTraversal.java</url>
           <line>21</line>
           <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/PermutationSequence.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="239" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
