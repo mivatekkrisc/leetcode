@@ -42,9 +42,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.KthSmallestElementInBST">
+  <component name="RunManager" selected="Application.AddTwoNumber2">
     <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.AddStrings" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddTwoNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.AddTwoNumber2" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -82,19 +95,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LongestPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.LongestPalindrome" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.Trie" />
       <module name="leecode" />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddTwoNumber2" />
         <item itemvalue="Application.KthSmallestElementInBST" />
         <item itemvalue="Application.Trie" />
         <item itemvalue="Application.AddStrings" />
         <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.LongestPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,7 @@
       <workItem from="1576635993152" duration="67000" />
       <workItem from="1576745979311" duration="712000" />
       <workItem from="1576831218340" duration="2390000" />
-      <workItem from="1577260872600" duration="9795000" />
+      <workItem from="1577260872600" duration="11228000" />
     </task>
     <servers />
   </component>
@@ -452,6 +452,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/KthSmallestElementInBST.java</url>
           <line>17</line>
           <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/AddTwoNumber2.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="252" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
