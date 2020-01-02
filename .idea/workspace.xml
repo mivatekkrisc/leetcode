@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BSTIterator">
+  <component name="RunManager" selected="Application.SingleElementInSortedArray">
     <configuration name="AddTwoNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.AddTwoNumber2" />
       <module name="leecode" />
@@ -95,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.Trie" />
+    <configuration name="SingleElementInSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.SingleElementInSortedArray" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingleElementInSortedArray" />
         <item itemvalue="Application.BSTIterator" />
         <item itemvalue="Application.SearchInRotatedSortedArray" />
         <item itemvalue="Application.AddTwoNumber2" />
         <item itemvalue="Application.KthSmallestElementInBST" />
-        <item itemvalue="Application.Trie" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +151,7 @@
       <workItem from="1576745979311" duration="712000" />
       <workItem from="1576831218340" duration="2390000" />
       <workItem from="1577260872600" duration="14698000" />
-      <workItem from="1577931883646" duration="3052000" />
+      <workItem from="1577931883646" duration="5318000" />
     </task>
     <servers />
   </component>
@@ -458,6 +458,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/AddTwoNumber2.java</url>
           <line>27</line>
           <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/SingleElementInSortedArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="254" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
