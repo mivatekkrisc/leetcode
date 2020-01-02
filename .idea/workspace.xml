@@ -42,20 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AddTwoNumber2">
-    <configuration name="AddStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.AddStrings" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.BSTIterator">
     <configuration name="AddTwoNumber2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.AddTwoNumber2" />
       <module name="leecode" />
@@ -69,8 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.FizzBuzz" />
+    <configuration name="BSTIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.BSTIterator" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +71,19 @@
     </configuration>
     <configuration name="KthSmallestElementInBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.KthSmallestElementInBST" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInRotatedSortedArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.SearchInRotatedSortedArray" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BSTIterator" />
+        <item itemvalue="Application.SearchInRotatedSortedArray" />
         <item itemvalue="Application.AddTwoNumber2" />
         <item itemvalue="Application.KthSmallestElementInBST" />
         <item itemvalue="Application.Trie" />
-        <item itemvalue="Application.AddStrings" />
-        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +150,8 @@
       <workItem from="1576635993152" duration="67000" />
       <workItem from="1576745979311" duration="712000" />
       <workItem from="1576831218340" duration="2390000" />
-      <workItem from="1577260872600" duration="11228000" />
+      <workItem from="1577260872600" duration="14698000" />
+      <workItem from="1577931883646" duration="3052000" />
     </task>
     <servers />
   </component>
