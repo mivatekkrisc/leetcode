@@ -42,20 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyLinkedList">
-    <configuration name="CompareVersionNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.CompareVersionNumbers" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SplitLinkedListInParts">
     <configuration name="InsertIntoBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.InsertIntoBST" />
       <module name="leecode" />
@@ -95,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SplitLinkedListInParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.SplitLinkedListInParts" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SuperPow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.SuperPow" />
       <module name="leecode" />
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SplitLinkedListInParts" />
         <item itemvalue="Application.MyLinkedList" />
         <item itemvalue="Application.InsertIntoBST" />
         <item itemvalue="Application.MapSum" />
         <item itemvalue="Application.SuperPow" />
-        <item itemvalue="Application.CompareVersionNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,7 @@
       <workItem from="1576831218340" duration="2390000" />
       <workItem from="1577260872600" duration="14698000" />
       <workItem from="1577931883646" duration="9978000" />
-      <workItem from="1578367281492" duration="13706000" />
+      <workItem from="1578367281492" duration="15497000" />
     </task>
     <servers />
   </component>
@@ -484,6 +484,11 @@
           <url>file://$PROJECT_DIR$/src/leecode/InsertIntoBST.java</url>
           <line>37</line>
           <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/SplitLinkedListInParts.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="276" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
