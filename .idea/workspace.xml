@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FlattenMultiLevelDoublyLinkedList">
+  <component name="RunManager" selected="Application.HappyNumber">
     <configuration name="Codec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.Codec" />
       <module name="leecode" />
@@ -69,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertIntoBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.InsertIntoBST" />
+    <configuration name="HappyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.HappyNumber" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HappyNumber" />
         <item itemvalue="Application.FlattenMultiLevelDoublyLinkedList" />
         <item itemvalue="Application.Codec" />
         <item itemvalue="Application.SplitLinkedListInParts" />
         <item itemvalue="Application.MyLinkedList" />
-        <item itemvalue="Application.InsertIntoBST" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,8 @@
       <workItem from="1576831218340" duration="2390000" />
       <workItem from="1577260872600" duration="14698000" />
       <workItem from="1577931883646" duration="9978000" />
-      <workItem from="1578367281492" duration="22472000" />
+      <workItem from="1578367281492" duration="23219000" />
+      <workItem from="1578896255749" duration="2351000" />
     </task>
     <servers />
   </component>
