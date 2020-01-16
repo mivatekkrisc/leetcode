@@ -42,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MyHashSet">
+  <component name="RunManager" selected="Application.MinCostClimbingStairs">
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.BinarySearch" />
       <module name="leecode" />
@@ -56,21 +56,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsomorphicStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.IsomorphicStrings" />
-      <module name="leecode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leecode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeafSimilarTrees" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leecode.LeafSimilarTrees" />
+    <configuration name="MinCostClimbingStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.MinCostClimbingStairs" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -84,6 +71,19 @@
     </configuration>
     <configuration name="MyHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leecode.MyHashSet" />
+      <module name="leecode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leecode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfRootToLeafBinaryNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leecode.SumOfRootToLeafBinaryNumbers" />
       <module name="leecode" />
       <extension name="coverage">
         <pattern>
@@ -110,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MinCostClimbingStairs" />
+        <item itemvalue="Application.SumOfRootToLeafBinaryNumbers" />
         <item itemvalue="Application.MyHashSet" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.ToLowerCase" />
-        <item itemvalue="Application.LeafSimilarTrees" />
-        <item itemvalue="Application.IsomorphicStrings" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +154,8 @@
       <workItem from="1577931883646" duration="9978000" />
       <workItem from="1578367281492" duration="23219000" />
       <workItem from="1578896255749" duration="3536000" />
-      <workItem from="1579080693552" duration="2838000" />
+      <workItem from="1579080693552" duration="3435000" />
+      <workItem from="1579144646875" duration="2152000" />
     </task>
     <servers />
   </component>
@@ -526,6 +527,16 @@
           <url>file://$PROJECT_DIR$/src/leecode/MyHashSet.java</url>
           <line>46</line>
           <option name="timeStamp" value="286" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/SumOfRootToLeafBinaryNumbers.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="287" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leecode/MinCostClimbingStairs.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="288" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
